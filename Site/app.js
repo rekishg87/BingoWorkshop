@@ -12,7 +12,7 @@ const msalConfig = {
 };
 
 //API Config
-var APIendpoint = "https://stf-rekish-apm.azure-api.net/Workshop/ping"
+var APIendpoint = "https://stf-rekish-apm.azure-api.net/Workshop/"
 
 //Vars
 const myMSALObj = new msal.PublicClientApplication(msalConfig);
